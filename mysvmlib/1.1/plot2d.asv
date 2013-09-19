@@ -1,0 +1,7 @@
+function [ ] = plot2d( data, groups )
+%PLOT2D Summary of this function goes here
+%   Detailed explanation goes here
+data(1,groups)
+
+end
+
